@@ -1,1 +1,0 @@
-# Mockito-e-JUnit
